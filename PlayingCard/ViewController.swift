@@ -10,8 +10,13 @@ import UIKit
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
+//        var deck = PlayingCardDeck()
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+//        for _ in 1...10 {
+//            if let card = deck.draw() {
+//                print("\(card)")
+//            }
+//        }
     }
 
 
